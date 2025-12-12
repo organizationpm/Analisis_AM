@@ -1,0 +1,5 @@
+{
+  "name": "Alimarket Market Intelligence Dashboard",
+  "description": "A generic business intelligence dashboard for processing Alimarket standard Excel files. Features automated sector segmentation, financial scoring, and AI-driven market analysis for any industry.",
+  "requestFramePermissions": []
+}
